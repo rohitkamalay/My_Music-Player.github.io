@@ -1,10 +1,5 @@
-# Music-player
-This repository contains Music player web application by using HTML & CSS.
-I used Html to structure the Music Player Web application
-This music player consits of two pages
-Css is used to style this two pages 
-This application is just a demo, it does not contain any database to store this songs.
-when the use clicks the popular artist images, it redirect to second page and if they click on Music application name they redirect back to home. 
+# My Music-player
+This repository includes an HTML and CSS-based music player web application. To structure the Music Player Web application, I utilised HTML. There are two pages in this music player. These two pages are styled with CSS. This programme is only a demo; there is no database to save these music there. When a user clicks on one of the popular artist photographs, a second page is redirected, and if they click on the name of the music programme, they are returned to the original page.
 ### Its in Process
 
 ### For more follow https://github.com/rohitkamalay
